@@ -8,6 +8,12 @@
 
 /* header */
 
+.logo_img{
+    width: 30px;
+    border-radius: 50%;
+    vertical-align: bottom;
+}
+
 header {
     height: 45px;
 }
